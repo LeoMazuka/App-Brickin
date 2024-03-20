@@ -8,11 +8,9 @@ export function Input({ ...rest }:  IInputProps) {
         fontSize={'md'}
         h={'16'}
         {...rest}
-        
         fontFamily={'Urbanist_900Black'}
         variant="unstyled"
         borderColor={'#E8770D'}
-        
         textDecoration={'none'}
         borderBottomWidth={'3'}
 
