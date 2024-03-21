@@ -10,7 +10,7 @@ export function Search({ ...rest }:  IInputProps) {
         px="1" 
         fontSize="14" 
         w='full'
-        {...rest}
+        /* {...rest}. */
 
         
         />

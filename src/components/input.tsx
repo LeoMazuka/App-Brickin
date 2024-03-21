@@ -18,7 +18,8 @@ export function Input({ ...rest }:  IInputProps) {
            
             bg: "#F0F0F0",
             borderColor: '#E8770D',
-            color: "gray.500"
+            color: "gray.500",
+            /* borderTopColor: "gray.500" */
         }}
 
         _invalid={ {

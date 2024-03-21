@@ -18,7 +18,7 @@ export function Button({ title, ...rest }: Props) {
             }
         }} p="12" rounded="xl" _text={{
             fontSize: 'md',
-            fontWeight: 'medium',
+            fontWeight: 'medium',f
             color: 'warmGray.50',
             textAlign: 'center'
         }}>

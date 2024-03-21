@@ -17,7 +17,7 @@ export default function App() {
           source={require('./assets/logoBrickin.png')}
         />
       </Center> */}
-      {/* <Cadastrar /> */}
+      {/* <Cadastrar /> */} 
       <Home />
       
     </NativeBaseProvider>

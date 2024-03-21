@@ -87,7 +87,7 @@ export function Cadastrar() {
                     <Input
                         padding="2"
                         placeholder="Confirme a senha:"
-                        mb="4"
+                        mb="4" /* a */
                         secureTextEntry={true}
                         onChangeText={(value) => handleChange('password', value)}
                     />

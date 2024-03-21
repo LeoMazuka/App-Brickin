@@ -30,7 +30,7 @@ export function Home() {
                         style={{
                             flexDirection: "row",
                             justifyContent: "space-between",
-                            alignItems: "center",
+                            alignItems: "center",a
                         }}
                     >
                      </Row> */}

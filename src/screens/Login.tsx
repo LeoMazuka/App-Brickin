@@ -28,7 +28,7 @@ export function Login() {
         </Heading>
         <Input padding="2" placeholder="Email:" mb={4} />
         <Input padding="2" placeholder="Senha:" secureTextEntry />
-        <Text style={styles.title} color="#E8770D" mb={20} mr={210}>Esqueceu a senha?</Text>
+        <Text style={styles.title} color="#E8770D" mb={20} mr={210}>Esqueceu a senha?d</Text>
         
         <Button color='white' mb={4} title="Logar" />
         <Text style={styles.title} >Não tem uma conta? <Text color="#E8770D">Registre-se</Text></Text>
